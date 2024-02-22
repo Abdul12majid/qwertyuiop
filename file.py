@@ -49,10 +49,10 @@ def replace_file(file1_name, file1_path, file2_path, new_name):
 
 
 
-file1_name = input("Provide file name: ")  #input name of file to be found
+file1_name = input("Provide file name: ")  #input name of file to be found, the old filename
 file1_path = "downloads"  #modify to file path
 
-file2_path = "newfolder/newfolder2/"  #modify to file path
+file2_path = "newfolder/newfolder2/"  #modify to file path, the new file for the replacement
 print(file2_path)
 new_name = input("Provide newfile name: ")  #input newname of file to be found
 

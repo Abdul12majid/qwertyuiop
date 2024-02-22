@@ -1,4 +1,4 @@
-for line 54, use "oldfile.txt" (without the quotes) and for line 57, you provide a newname of your choice.
+for line 52, use "oldfile.txt" (without the quotes) and for line 57, you provide a newname of your choice.
 
 
 i have two paths: downloads and newfolder/newfolder2, you can see the structure in the entire code.
